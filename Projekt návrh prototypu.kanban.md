@@ -1,5 +1,5 @@
 ## Backlog
-- Ověření wireframů  
+- Ověření wireframů #Schůzky  
   Ověřit u pracovníků wireframy, než budou předělávány na podrobnější designy.
 
 ## To-do
