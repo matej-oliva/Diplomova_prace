@@ -1,7 +1,7 @@
 # Úvodní schůzka
 
 - Datum: 11. 1. 2024
-- Účastníci: Bc. Matěj Oliva, Mgr. Kateřina Vejvodová
+- Účastníci: Bc. Matěj Oliva, Mgr. Kateřina Vejvodová, RNDr. Libor Ekrt, Ph.D.
 - Místo setkání: Stará Boleslav
 - Cíl schůzky: Úvodní schůzka pro pochopení způsobu práce a prvotní sběr požadavků od zákazníka
 
