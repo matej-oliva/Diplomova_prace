@@ -1,9 +1,12 @@
 # Úvodní schůzka
-
-- Datum: 11. 1. 2024
-- Účastníci: Bc. Matěj Oliva, Mgr. Kateřina Vejvodová, RNDr. Libor Ekrt, Ph.D.
-- Místo setkání: Stará Boleslav
-- Cíl schůzky: Úvodní schůzka pro pochopení způsobu práce a prvotní sběr požadavků od zákazníka
+**Datum**: 11. 1. 2024  
+**Účastníci**: 
+ - Bc. Matěj Oliva
+ - Mgr. Kateřina Vejvodová
+ - RNDr. Libor Ekrt, Ph.D.
+   
+**Místo setkání**: Stará Boleslav
+**Cíl schůzky**: Úvodní schůzka pro pochopení způsobu práce a prvotní sběr požadavků od budoucích uživatelů
 
 ## Nalezení vzorku v terénu
 Hledání mnohdy probíhá formou expedice více lidí. Skupina může čítat i 20 členů, proto když je vzorek nalezen, není moc prostor a čas se zaobýrat vyplňováním údajů. Cílem je co nejvíce informací předvyplnit automaticky, zbytek bude dopsán zpětně. 
