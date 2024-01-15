@@ -5,7 +5,7 @@
 ## To-do
 - User stories #Dokumenty 2024-01-19  
   Sepsat user stories, které obsáhnou celkový průběh uživatele aplikací.
-- Wireframy 2024-01-26  
+- Wireframy #Designy 2024-01-26  
   Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
 
 ## In progress
