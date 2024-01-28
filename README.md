@@ -90,11 +90,11 @@ V případě úspěchu bude mít aplikace potenciál být implementována i dal�
 
 ## Zdroje
 
-New York Botanical Garden. Index Herbariorum - The William & Lynda Steere Herbarium, 2023. [online] Dostupné z: https://sweetgum.nybg.org/science/ih/.
+NEW YORK BOTANICAL GARDEN. Index Herbariorum - The William & Lynda Steere Herbarium, 2023. [online] Dostupné z: https://sweetgum.nybg.org/science/ih/.
 
-Katedra botaniky PřF JU. Systematika cévnatých rostlin na Katedře botaniky BF JU, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/herbar.html/.
+KATEDRA BOTANIKY PŘF JU. Systematika cévnatých rostlin na Katedře botaniky BF JU, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/herbar.html/.
 
-Katedra botaniky PřF JU. Systematika vyšších rostlin – Výzkum, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/vyzkum/.
+KATEDRA BOTANIKY PŘF JU. Systematika vyšších rostlin – Výzkum, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/vyzkum/.
 
 MAGDALENA, Ulises Rodrigo et al. A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections. Applied Geography (Sevenoaks). 2018, vol. 96, p. 11-15. ISSN 0143-6228.
 
@@ -102,13 +102,13 @@ KISLOV, Dmitry E. et al. An electronic management system for a digital herbarium
 
 Design Thinking, 2008. Harvard Business Review [online]. 2008 [cited 2020-11-08]. Dostupné z: https://hbr.org/2008/06/design-thinking.
 
-Tim BROWN, Clayton M. CHRISTENSEN, Indra NOOYI, and Vijay GOVINDARAJAN. HBR’s 10 Must Reads on Design Thinking. B.m.: Harvard Business Review Press, 2020.
+BROWN, Tim, Clayton M. CHRISTENSEN, Indra NOOYI, and Vijay GOVINDARAJAN. HBR’s 10 Must Reads on Design Thinking. B.m.: Harvard Business Review Press, 2020.
 
 ESTHER, Han. What Is Design Thinking & Why Is It Important? | HBS Online. Business Insights Blog [online]. 18. leden 2022 [vid. 2024-01-10]. Dostupné z: https://online.hbs.edu/blog/post/what-is-design-thinking.
 
-Design thinking proces – Rychlé shrnutí. Jiří Benedikt [online]. [vid. 2024-01-10]. Dostupné z: https://www.jiribenedikt.com/materialy/design-thinking/proces/.
+BENEDIKT, Jiří. Design thinking proces – Rychlé shrnutí [online]. [vid. 2024-01-10]. Dostupné z: https://www.jiribenedikt.com/materialy/design-thinking/proces/.
 
-Design Thinking: How it works [Theory, Practice & Examples] [online]. [vid. 2024-01-10]. Dostupné z: https://www.teamazing.com/design-thinking/.
+TEAMAZING, Design Thinking: How it works [Theory, Practice & Examples] [online]. [vid. 2024-01-10]. Dostupné z: https://www.teamazing.com/design-thinking/.
 
 BROWN, Tim. Change by Design, Revised and Updated: How Design Thinking Transforms Organizations and Inspires Innovation. Revised, Updated ed. edition. B.m.: Harper Business, 2019.
 
