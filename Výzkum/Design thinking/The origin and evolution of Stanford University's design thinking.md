@@ -16,7 +16,7 @@ Design thinking se začal nejvíce šířit jako uznávaný pojem pro novou inov
 ---
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
-[^Brown2009]Brown, Tim. 2009. Change by Design: How Design Thinking 
+[^Brown2009]: Brown, Tim. 2009. Change by Design: How Design Thinking 
 Transforms Organizations and Inspires Innovation. New York:
 HarperCollins.
 [^article]: AUERNHAMMER, Jan a Bernard ROTH, 2021. The origin and evolution of Stanford University’s design thinking: From product design to design thinking in innovation management. Journal of Product Innovation Management [online]. 38(6), 623–644. ISSN 07376782. Dostupné z: doi:10.1111/jpim.12594
