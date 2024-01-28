@@ -91,15 +91,25 @@ V případě úspěchu bude mít aplikace potenciál být implementována i dal�
 ## Zdroje
 
 New York Botanical Garden. Index Herbariorum - The William & Lynda Steere Herbarium, 2023. [online] Dostupné z: https://sweetgum.nybg.org/science/ih/.
+
 Katedra botaniky PřF JU. Systematika cévnatých rostlin na Katedře botaniky BF JU, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/herbar.html/.
+
 Katedra botaniky PřF JU. Systematika vyšších rostlin – Výzkum, 2023. [online] Dostupné z: https://botanika.prf.jcu.cz/systematics/vyzkum/.
-DigitalSreeni. Nuclei segmentation and analysis using Detectron2 & YOLOv8, 2023. Dostupné z: https://www.youtube.com/watch?v=R-N-YXzvOmY&t=49s&ab_channel=DigitalSreeni.
+
 MAGDALENA, Ulises Rodrigo et al. A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections. Applied Geography (Sevenoaks). 2018, vol. 96, p. 11-15. ISSN 0143-6228.
+
 KISLOV, Dmitry E. et al. An electronic management system for a digital herbarium: Development and future prospects. Botanica Pacifica: Journal of Plant Science and Conservation. 2017, vol. 6, no. 2, p. 59-68. ISSN 2226-4701.
+
 Design Thinking, 2008. Harvard Business Review [online]. 2008 [cited 2020-11-08]. Dostupné z: https://hbr.org/2008/06/design-thinking.
+
 Tim BROWN, Clayton M. CHRISTENSEN, Indra NOOYI, and Vijay GOVINDARAJAN. HBR’s 10 Must Reads on Design Thinking. B.m.: Harvard Business Review Press, 2020.
+
 ESTHER, Han. What Is Design Thinking & Why Is It Important? | HBS Online. Business Insights Blog [online]. 18. leden 2022 [vid. 2024-01-10]. Dostupné z: https://online.hbs.edu/blog/post/what-is-design-thinking.
+
 Design thinking proces – Rychlé shrnutí. Jiří Benedikt [online]. [vid. 2024-01-10]. Dostupné z: https://www.jiribenedikt.com/materialy/design-thinking/proces/.
+
 Design Thinking: How it works [Theory, Practice & Examples] [online]. [vid. 2024-01-10]. Dostupné z: https://www.teamazing.com/design-thinking/.
+
 BROWN, Tim. Change by Design, Revised and Updated: How Design Thinking Transforms Organizations and Inspires Innovation. Revised, Updated ed. edition. B.m.: Harper Business, 2019.
+
 TONHAUSER, Pauline. Design Thinking Workshop: The 12 Indispensable Elements for a Design Thinking Workshop [online] 2016 [vid. 2024-01-10]. Dostupné z: https://www.amazon.com/dp/B01BHKI148?ref=yb_qv_ov_kndl_dp_rw
