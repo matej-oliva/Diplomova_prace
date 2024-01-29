@@ -34,7 +34,7 @@ Představení první ucelené, kreativní a humanistické filozofie a praxe desi
 #### Třetí perioda (1965-1985)
 Filozofie a praxe se rozšiřují a začínají si je osvojovat i první firmy a organizace, jako například Apple, nebo IDEO.
 #### Čtvrtá perioda (1986-2005)
-Rozšíření 
+Komplexní integrace designu a obchodních praktik. Vznik termínu design thinking jako termínu, který reprezentuje filisofii a praxi designu. 
 
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
