@@ -15,24 +15,10 @@ Design thinking se začal nejvíce šířit jako uznávaný pojem pro novou inov
 Design thinking je často kritizován za nedostatečné ukotvení praktik a nejasnost výkladu. To vede k vysoké variabilitě její implementace, což může být problematické, jelikož je zde vyšší riziko nedodržování jiných praktik designu a potenciálnímu úpadku kvality. Dalším bodem kritiky je její nedostatek teoretického podkladu zabraňuje efektivní evaluaci metodiky a jejímu dalšímu rozvoji.
 
 ### Practitioner points
-- Design thinking as a step-by-step process with
-tools prevents fluency in thinking and flexibil-
-ity in approach, which are essential in Design-
-driven Innovation.
-- An essential innovation management task is
-to develop a design culture and capabilities by
-freeing teamsfrom emerging blocksimposed by
-the environment.
-- In organizations, Design-driven Innovation re-
-quires the development of micro-foundation,
-such as abilities and attitudes & values, and
-capabilities, such as creative routines and en-
-vironments of support and psychological safety
-and freedom.
-- Innovation managers and educators need to
-consider essential design qualities when ena-
-bling people to design tangible solution for
-open and complex problems.
+- Design thinking as a step-by-step process with tools prevents fluency in thinking and flexibility in approach, which are essential in Design-driven Innovation.
+- An essential innovation management task is to develop a design culture and capabilities by freeing teamsfrom emerging blocksimposed by the environment.
+- In organizations, Design-driven Innovation requires the development of micro-foundation, such as abilities and attitudes & values, and capabilities, such as creative routines and environments of support and psychological safety and freedom.
+- Innovation managers and educators need to consider essential design qualities when enabling people to design tangible solution for open and complex problems.
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
