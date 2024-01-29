@@ -12,7 +12,7 @@ Design thinking se začal nejvíce šířit jako uznávaný pojem pro novou inov
 
 3 nejčastější aktivity spojené s metodikou design thinking jsou hledání potřeby (need-finding), ideace (brainstorming) a prototypování(Brown, 2009; Seidel & Fixson, 2013[^Seidel2013]). 
 
-Design thinking je často kritizován za nedostatečné ukotvení praktik a nejasnost výkladu. To vede k vysoké variabilitě její implementace, což může být problematické, jelikož je zde vyšší riziko nedodržování jiných praktik designu a potenciálnímu úpadku kvality. Dalším bodem kritiky je její nedostatek teoretického podkladu zabraňuje efektivní evaluaci metodiky a jejímu dalšímu rozvoji (Auernhammer a Roth 2021[^self]).
+Design thinking je často kritizován za nedostatečné ukotvení praktik a nejasnost výkladu. To vede k vysoké variabilitě její implementace, což může být problematické, jelikož je zde vyšší riziko nedodržování jiných praktik designu a potenciálnímu úpadku kvality. Dalším bodem kritiky je její nedostatek teoretického podkladu zabraňuje efektivní evaluaci metodiky a jejímu dalšímu rozvoji (Auernhammer a Roth 2021[^article]).
 
 ### Practitioner points
 - Design thinking as a step-by-step process with tools prevents fluency in thinking and flexibility in approach, which are essential in Design-driven Innovation.
