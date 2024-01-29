@@ -16,7 +16,7 @@ Design thinking je často kritizován za nedostatečné ukotvení praktik a neja
 
 ### Practitioner points
 - Design thinking as a step-by-step process with tools prevents fluency in thinking and flexibility in approach, which are essential in Design-driven Innovation.
-- An essential innovation management task is to develop a design culture and capabilities by freeing teamsfrom emerging blocksimposed by the environment.
+- An essential innovation management task is to develop a design culture and capabilities by freeing teamsfrom emerging blocks imposed by the environment.
 - In organizations, Design-driven Innovation requires the development of micro-foundation, such as abilities and attitudes & values, and capabilities, such as creative routines and environments of support and psychological safety and freedom.
 - Innovation managers and educators need to consider essential design qualities when enabling people to design tangible solution for open and complex problems.
 
