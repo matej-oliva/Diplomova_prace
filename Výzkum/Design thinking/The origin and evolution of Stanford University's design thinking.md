@@ -27,6 +27,10 @@ Design thinking je často kritizován za nedostatečné ukotvení praktik a neja
 ### Výsledky
 Analýza odhalila 8 témat reprezentujících kvality filozofie designu konzistentní praxe napříč dekádami.
 
+![Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of
+selected core courses](.attachments/a9a71bcd827476e4a46c4ecdd62b2f0cabca26a9.png "Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of
+selected core courses") 
+
 První perioda ukazuje na rané teoretické základy, primárně psychologie, výzkumu kreativity a praktik designu. Druhá až čtvrtá se věnují vývoji těchto praktik a metod od roku 1957 do 2005. Poslední perioda zahrnuje aktuální debatu na téma DT v literatuře innovation managementu (Micheli et al., 2019).
 
 #### Druhá perioda (1957-1964)
