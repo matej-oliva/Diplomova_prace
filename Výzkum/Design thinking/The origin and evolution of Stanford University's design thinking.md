@@ -179,7 +179,10 @@ Další praktiky k navrhování interakcí a zážitků jsou:
 (Black et al., 1994;Moggridge, 1993; Simsarian, 2003; Verplank et al., 1993)
 
 #### Design thinking
+1999 Larry Leifer založil kurz Navrhování lidských zkušeností - zkoumání
+Teorie a praxe designového myšlení. Ve stejné době začalo i IDEO nazývat svůj přístup Designovým myšlením. 
 
+V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, jak mezioborový tým předesignoval nákupní košík. Dokument tento přístup velmi zpopularizoval mezi vedoucími pracovníky organizací a půl století vyvíjený program, smýšlení a filozofie byly shrnuty do jediného pojmu: Design thinking.
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
