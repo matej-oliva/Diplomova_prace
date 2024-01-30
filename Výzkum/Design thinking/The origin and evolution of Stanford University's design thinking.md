@@ -183,6 +183,14 @@ Další praktiky k navrhování interakcí a zážitků jsou:
 Teorie a praxe designového myšlení. Ve stejné době začalo i IDEO nazývat svůj přístup Designovým myšlením. 
 
 V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, jak mezioborový tým předesignoval nákupní košík. Dokument tento přístup velmi zpopularizoval mezi vedoucími pracovníky organizací a půl století vyvíjený program, smýšlení a filozofie byly shrnuty do jediného pojmu: Design thinking.
+![Design qualities to enable Design-driven Innovation](.attachments/a6b9c1cc549d7c5b954556d5a94cb920eca5023c.png "Design qualities to enable Design-driven Innovation") 
+
+### Závěr
+Akademici uváděli, že se Designové myšlení vynořilo nezávisle na teoriích. Tato studie však nalezla, že jsou do této metodiky hluboce zakořeněny psychologické teorie kreativity, vizuálního myšlení a lidských hodnot. 
+
+Koncepce designu poskytuje humanistickou a kreativní perspektivu vývoje technologie v kontrastu k technicko-racionální doktríně.
+
+Dále práce ukazuje, že Design thinking je mnohostranný soubor vzájemně propojených způsobů myšlení, postojů a hodnot, atributů a schopností, které se lze naučit a které se dají prostřednictvím různých aktivit a postupů, technik a příznivého prostředí
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
