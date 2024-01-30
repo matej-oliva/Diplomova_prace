@@ -135,7 +135,51 @@ Toto brainstormingové prostředí je umožněno modifikovanými pravidly/techni
 - Odložit úsudek
 - Stavět na nápadech druhých
 - Vést jen jednu diskusi naráz
-- 
+- Soustředit se na téma
+- Povzbuzovat divoké nápady
+
+Sutton a Hargadon dále uvádějí, že tyto pravidla jsou efektivní, jelikož jsou utvářena uvnitř týmů s minulou a budoucí nezávislostí na úkolech, mezilidských vztazích, s využitím nápadů a odbornosti v brainstormingu.
+
+Dále poskytli i důkazy (1996), že tyto pravidla brainstormingu zvyšují, při zavedení v celé organizaci, kreativitu.
+
+_"IDEO učí a připomíná designérům, aby vytvářeli mnoho nápadů, pár z nich implementovali do hloubky, provedli u nich co nejvíce změn a uvědomovali si, že mnoho špatných nápadů, může vést k několika dobrým. Tento proces se objevuje na brainstorminzích, zatímco je účastníci sepisují do seznamů a črtají nákresy. Slova a nákresy z brainstormingů podněcují po těchto sezeních návrháře k vytváření prototypů. Návrháři používají materiály jako karton, pěna, kobercovka, Lego kostky a sestavují různé kombinace existujících produktů k získání co nejdřívější trojrozměrnosti."_
+
+Módy obrazového smýšlení, Aktivity a Praxe a prostředí psychologického bezpečí a svobody podporují v IDEO kreativitu a inovace.
+
+Leonard and Rayport (1997) zveřejnili článek založený na osnovách empatického designu a praktik v IDEO. 
+Popsali empatický design, jako soubor aktivit a praktik jako:
+- pozorování,
+- zaznamenávání dat,
+- reflexe a analýzy,
+- brainstormingu a
+- vývoje prototypů
+
+Zdůraznili, že techniky empatického designu přispívají k toku nápadů, které vyžadují další testování.
+
+10 tajemství Davida Kelleyho k integraci inovačních přístupů do organizace:
+1. multidisciplinární týmy
+2. malé týmy
+3. učení se děje mimo pracovní pracovní stůl
+4. porozumění uživatele produktu
+5. žít v budoucnosti
+6. destigmatizace selhání
+7. připojit prototypování k brainstormingu
+8. mantra Pochopení, Pozorování, Vizualizace, Zhodnocení a Implementace
+9. lídři a mentoři, nikoli šéfové a
+10. zábavné pracoviště
+
+##### Design interakcí a zážitků
+Zaměstnanci z IDEO zveřejnili řadu vlastních článků, které dále rozšiřují praxi a vzdělání o designu. Tyto články vykreslují idealizovaný proces designu Porozumění, Pozorování, Vizualizace, Zhodnocení a Zlepšení. (Brouwer-Janse et al., 1997; Moll-Carrillo et al., 1995; Spreenberg et al.,1995).
+
+Další praktiky k navrhování interakcí a zážitků jsou:
+- Storytelling
+- Scénáře a metafory
+- Pozorování a rozhovory a
+- hraní rolí
+(Black et al., 1994;Moggridge, 1993; Simsarian, 2003; Verplank et al., 1993)
+
+#### Design thinking
+
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
