@@ -102,18 +102,40 @@ Bloky kreativity (Adams)
 - Hledání potřeb lidí pozorováním interakcí s lidmi
 - Cílem porozumění životním situacím a širšího kontextu
 - Komunikace/prezentování nápadů na design v kontextu subjektu k validaci uchopené potřeby
-- S každou iterací se upravuje definice problémů a potřeb subjektu
+- S každou iterací se upravuje situace a určení problémů a potřeb subjektu
 - Tato praktika integruje do procesu lidské hodnoty a přístupy, jako morálka a empatie k lidem a jejich potřebám
+
+_"Design response to a human need"_
 
 _"Otevřeně interaktivní skupina může vytvořit skupinové myšlení, které má rozsah informací a asociační schopnosti, jichž jediná mysl není schopna(McKim, 1972)."_
 
 ##### Podnikání
 
+Adams (1974) sestavil osnovy pedagogiky designu, které zahrnovaly do řešení otevřených problémů i technicky založené osoby. Transformoval myšlení více směrem k orientaci na problémy a potřeby, než-li nástroje samotné. Tyto osnovy vytvářely kreativní a humanistické designery s estetickými a technickými znalostmi. 
+
+Díky tomuto přístupu začaly vznikat detailně zpracované prototypy, schopné vstupu na trh, které studenti během studií vytvářeli a v sedmdesátých letech na tyto metodiky nastoupily i inovativní firmy, jako Apple Computer, Hovey-Kelley Design (dnešní IDEO), Concept2 a Powell-Peralta. Absolventi JPD programu pak spolupracovali i se Stevem Jobsem na mnoha projektech.
+
+Na Stanfordské podnikatelské konferenci pak McKim prezentoval svá zjištění o hodnotě přístupu hledání potřeb v podnikatelských aktivitách.
 
 #### Čtvrtá perioda (1986-2005)
 Komplexní integrace designu a obchodních praktik. Vznik termínu design thinking jako termínu, který reprezentuje filisofii a praxi designu. 
 
+V 90s' se zvýšila spolupráce mezi katedrami designu a businesu. 
+1991 Adams navrhl 5 kritických faktorů k povzbuzení kreativity v organizaci. 
 
+##### Inovace v organizaci
+89' Bill Moggridge a David Kelley učili Pokročilý design produktu, než s Mikem Nutallim založili IDEO.  
+IDEO předefinovali skrze bezpočet projektů dosavadní náhled na kreativní přístup. Vyhráli většinu ocenění té doby a akademici businesových škol se začali o jejich praktiky více zajímat. Zejména o praktiky a kulturu, které vedly k rutinnímu vytváření inovací.
+
+Sutton a Hargadon (1996) přišli se 2 zásadními zjištěními:
+1. Brainstorming kultura
+2. Sdílení znalostí
+
+Toto brainstormingové prostředí je umožněno modifikovanými pravidly/technikami brainstormingu:
+- Odložit úsudek
+- Stavět na nápadech druhých
+- Vést jen jednu diskusi naráz
+- 
 
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review
 86(6): 84–92.
