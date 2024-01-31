@@ -188,7 +188,7 @@ V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, 
 
 <figure>
     <img src=".attachments/a6b9c1cc549d7c5b954556d5a94cb920eca5023c.png"
-         alt="Design qualities to enable Design-driven Innovation">
+         alt="Design qualities to enable Design-driven Innovation"/>
     <figcaption>Design qualities to enable Design-driven Innovation</figcaption>
 </figure>
 
