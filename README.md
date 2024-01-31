@@ -1,6 +1,7 @@
 # Návrh a ověření prototypu elektronického herbáře
 
-[Diplomová práce.docx](<https://vse-my.sharepoint.com/:w:/g/personal/olim02_vse_cz/EXrRd2VRxYxDpbQ76hZnw-UB2PpayTA-KKMjYzs7VwuYWw?e=1uGk4o>)
+[Online verze](<https://vse-my.sharepoint.com/:w:/g/personal/olim02_vse_cz/EXrRd2VRxYxDpbQ76hZnw-UB2PpayTA-KKMjYzs7VwuYWw?e=1uGk4o>)
+[Offline verze](.attachments/82a0bb8fbb84d20f391beade34af05bf5c3da56c.docx) 
 
 **Vedoucí DP: Ing. et Ing. Michal Doležel, Ph.D.**
 **Letní semestr 2023/2024**
