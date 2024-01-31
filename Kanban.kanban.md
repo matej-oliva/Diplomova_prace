@@ -7,8 +7,6 @@
   Sepsat user stories, které obsáhnou celkový průběh uživatele aplikací.
 - Wireframy #Designy  
   Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
-- Přečíst literaturu o určování lokality při sběru rostlin #Knihy  
-  [A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections](<https://www.sciencedirect.com/science/article/abs/pii/S0143622817309803>)
 
 ## In progress
 - A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections #Knihy  
