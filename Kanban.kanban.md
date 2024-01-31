@@ -9,10 +9,10 @@
   Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
 - Přečíst literaturu o určování lokality při sběru rostlin #Knihy  
   [A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections](<https://www.sciencedirect.com/science/article/abs/pii/S0143622817309803>)
-- A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections #Knihy  
 - The origin and evolution of Stanford University’s design thinking: From product design to design thinking in innovation management #Knihy  
 
 ## In progress
+- A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections #Knihy  
 
 ## Testing
 
