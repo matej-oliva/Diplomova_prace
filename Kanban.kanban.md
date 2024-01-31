@@ -9,7 +9,6 @@
   Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
 - Přečíst literaturu o určování lokality při sběru rostlin #Knihy  
   [A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections](<https://www.sciencedirect.com/science/article/abs/pii/S0143622817309803>)
-- The origin and evolution of Stanford University’s design thinking: From product design to design thinking in innovation management #Knihy  
 
 ## In progress
 - A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections #Knihy  
@@ -19,3 +18,4 @@
 ## Done
 - Úvodní schůzka #Schůzky  
   https://github.com/matej-oliva/Diplomova_prace/blob/master/Meetingy/%C3%9Avodn%C3%AD%20sch%C5%AFzka.md
+- The origin and evolution of Stanford University’s design thinking: From product design to design thinking in innovation management #Knihy  
