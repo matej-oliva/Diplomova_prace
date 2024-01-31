@@ -168,20 +168,20 @@ Zdůraznili, že techniky empatického designu přispívají k toku nápadů, kt
 10. zábavné pracoviště
 
 #### Design interakcí a zážitků
-Zaměstnanci z IDEO zveřejnili řadu vlastních článků, které dále rozšiřují praxi a vzdělání o designu. Tyto články vykreslují idealizovaný proces designu Porozumění, Pozorování, Vizualizace, Zhodnocení a Zlepšení. (Brouwer-Janse et al.[^Brouwer-Janse1997], 1997; Moll-Carrillo et al., 1995; Spreenberg et al.,1995).
+Zaměstnanci z IDEO zveřejnili řadu vlastních článků, které dále rozšiřují praxi a vzdělání o designu. Tyto články vykreslují idealizovaný proces designu Porozumění, Pozorování, Vizualizace, Zhodnocení a Zlepšení. (Brouwer-Janse et al., 1997[^Brouwer-Janse1997]; Moll-Carrillo et al., 1995[^Moll-Carrillo1995]; Spreenberg et al.,1995[^Spreenberg1995]).
 
 Další praktiky k navrhování interakcí a zážitků jsou:
 - Storytelling
 - Scénáře a metafory
 - Pozorování a rozhovory a
 - hraní rolí
-(Black et al., 1994;Moggridge, 1993; Simsarian, 2003; Verplank et al., 1993)
+(Black et al., 1994[^Black1994];Moggridge, 1993[^Moggridge1993]; Simsarian, 2003[^Simsarian2003]; Verplank et al., 1993[^Verplank1993])
 
 ### Design thinking
 1999 Larry Leifer založil kurz Navrhování lidských zkušeností - zkoumání
-Teorie a praxe designového myšlení. Ve stejné době začalo i IDEO nazývat svůj přístup Designovým myšlením. 
+Teorie a praxe designového myšlení. Ve stejné době začalo i IDEO nazývat svůj přístup Designovým myšlením. [^article]
 
-V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, jak mezioborový tým předesignoval nákupní košík. Dokument tento přístup velmi zpopularizoval mezi vedoucími pracovníky organizací a půl století vyvíjený program, smýšlení a filozofie byly shrnuty do jediného pojmu: Design thinking.
+V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, jak mezioborový tým předesignoval nákupní košík. Dokument tento přístup velmi zpopularizoval mezi vedoucími pracovníky organizací a půl století vyvíjený program, smýšlení a filozofie byly shrnuty do jediného pojmu: Design thinking.[^article]
 ![Design qualities to enable Design-driven Innovation](.attachments/a6b9c1cc549d7c5b954556d5a94cb920eca5023c.png "Design qualities to enable Design-driven Innovation") 
 
 ## Závěr
@@ -189,7 +189,7 @@ Akademici uváděli, že se Designové myšlení vynořilo nezávisle na teorií
 
 Koncepce designu poskytuje humanistickou a kreativní perspektivu vývoje technologie v kontrastu k technicko-racionální doktríně.
 
-Dále práce ukazuje, že Design thinking je mnohostranný soubor vzájemně propojených způsobů myšlení, postojů a hodnot, vlastností a schopností, které se lze naučit a podporovat prostřednictvím různých aktivit a postupů, technik a příznivého prostředí, který slouží k překonání vznikajících překážek.
+Dále práce ukazuje, že Design thinking je mnohostranný soubor vzájemně propojených způsobů myšlení, postojů a hodnot, vlastností a schopností, které se lze naučit a podporovat prostřednictvím různých aktivit a postupů, technik a příznivého prostředí, který slouží k překonání vznikajících překážek.[^article]
 
 ---
 [^Adams1974b]: Adams, James L. 1974b. “Invention and Innovation in the University.” The Public Need and the Role of the Inventor 37–46.
@@ -210,3 +210,9 @@ org/10.1111/jpim.12061.
 [^LeonardRayport1997]: Leonard, Dorothy A., and Jeffrey F. Rayport 1997. “Spark Innovation Through Empathic Design.” Harvard Business Review 75(6): 102–13.
 [^Kelley1998]: Kelley, David. 1998. “Performing Rapid Innovation Magic: Ten Secrets of a Modern Merlin.” In Straight from the CEO: The World's Top Business Leaders Reveal Ideas That Every Manager Can Use, edited by G. W. Dauphinais, and C. Price, 271–81. NewYork: Simon & Schuster.
 [^Brouwer-Janse1997]: Brouwer-Janse, Maddy D., Jane Fulton Suri, Mitchell Yawitz, Govert de Vries, James L. Fozard, and Roger Coleman. 1997. “User Interfaces for Young and Old.” Interactions 4(2): 34–46. https://doi.org/10.1145/245129.245133.
+[^Moll-Carrillo1995]: Moll-Carrillo, HectorJ., Gitta Salomon, Matthew Marsh,Jane Fulton Suri, and Peter Spreenberg. 1995. “Articulating a Metaphor Through User-Centered Design.” In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. NewYork: ACM Press/Addison-Wesley Publishing Co.
+[Spreenberg1995]: Spreenberg, Peter, Gitta Salomon, and Phillip Joe. 1995. “Interaction design at IDEO Product Development.” In Conference Companion on Human Factors in Computing Systems, 164–5. New York: Association for Computing Machinery.
+[^Black1994]: Black, Alison, Oliver Bayley, Colin Burns, Ilkka Kuuluvainen, and John Stoddard. 1994. “Keeping Viewers in the Picture: Real- World Usability Procedures in the Development of a Television Control Interface.” In Conference Companion on Human Factors in Computing Systems, 243–4. New York: Association for Computing Machinery
+[^Moggridge1993]: Moggridge, Bill. 1993. “Design by Story-Telling.” Applied Ergonomics 24(1): 15–8. https://doi.org/10.1016/0003-6870(93)90154-2.
+[^Simsarian2003]: Simsarian, Kristian T. 2003. “Take It to the Next Stage: The Roles of Role Playing in the Design Process.” In Human Factors  in Computing Systems, 1012–3. New York: Association for Computing Machinery.
+[^Verplank1993]: Verplank, Bill, Alison Black, Jane Fulton Suri, and Bill Moggridge. 1993. “Observation and Invention: The Use of Scenarios in Interaction Design.” InterCHI'93.
