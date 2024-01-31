@@ -54,7 +54,8 @@ Představení první ucelené, kreativní a humanistické filozofie a praxe desi
 
 1959 vznikl letní obor kreativní inženýrství ve spolupráci odborníků jako Maslow a Robert McKim (design).
 
-1959 John Arnold nastínil **analýzu, syntézu a evaluaci** jako 3 myšlenkové pochody, které zhmotňovaly organizovanou kreativitu. _"Kreativní proces je primárně myšlenkový proces, kdy člověk kombinuje a překombinovává předchozí zkušenosti, s možným zkreslením, do podoby takovým způsobem, že nová kombinace, vzor nebo konfigurace lépe řeší nějakou potřebu člověka. Kromě toho, konečný výsledek musí být hmatatelný, takový který můžete vidět, cítit či nějak na něj reagovat nějakým způsobem, musí být dopředu viditelný a musí mít synergický efekt."_ (Arnold, 1959[^Arnold1959]) 
+1959 John Arnold nastínil **analýzu, syntézu a evaluaci** jako 3 myšlenkové pochody, které zhmotňovaly organizovanou kreativitu. _"Kreativní proces je primárně myšlenkový proces, kdy člověk kombinuje a překombinovává předchozí zkušenosti, s možným zkreslením, do podoby takovým způsobem, že nová kombinace, vzor nebo konfigurace lépe řeší nějakou potřebu člověka. Kromě toho, konečný výsledek musí být hmatatelný, takový který můžete vidět, cítit či nějak na něj reagovat nějakým způsobem, musí být dopředu viditelný a musí mít synergický efekt."_ (Arnold, 1959[^Arnold1959])
+
 Tento přístup ukazuje, že kognitivní proces kreativity je neodlučitelný od interakcí s prostředím a vyžaduje utváření hmatatelných řešení, které slouží potřebám lidí ve vzájemné synergii.
 
 4 kreativní přístupy: 
@@ -139,7 +140,7 @@ Toto brainstormingové prostředí je umožněno modifikovanými pravidly/techni
 
 Sutton a Hargadon dále uvádějí, že tyto pravidla jsou efektivní, jelikož jsou utvářena uvnitř týmů s minulou a budoucí nezávislostí na úkolech, mezilidských vztazích, s využitím nápadů a odbornosti v brainstormingu.
 
-Dále poskytli i důkazy (1996[^SuttonHargadon]), že tyto pravidla brainstormingu zvyšují, při zavedení v celé organizaci, kreativitu.
+Dále poskytli i důkazy (1996[^SuttonHargadon1996]), že tyto pravidla brainstormingu zvyšují, při zavedení v celé organizaci, kreativitu.
 
 _"Brainstormingy v IDEO učí a připomínají designérům, aby vytvářeli mnoho nápadů, pár z nich implementovali do hloubky, provedli u nich co nejvíce změn a uvědomovali si, že mnoho špatných nápadů, může vést k několika dobrým. Tento proces se objevuje na brainstorminzích, zatímco je účastníci sepisují do seznamů a črtají nákresy. Slova a nákresy z brainstormingů podněcují po těchto sezeních návrháře k vytváření prototypů. Návrháři používají materiály jako karton, pěna, kobercovka, Lego kostky a sestavují různé kombinace existujících produktů k získání co nejdřívější trojrozměrnosti[^SuttonHargadon1996]."_
 
@@ -211,7 +212,7 @@ org/10.1111/jpim.12061.
 [^Kelley1998]: Kelley, David. 1998. “Performing Rapid Innovation Magic: Ten Secrets of a Modern Merlin.” In Straight from the CEO: The World's Top Business Leaders Reveal Ideas That Every Manager Can Use, edited by G. W. Dauphinais, and C. Price, 271–81. NewYork: Simon & Schuster.
 [^Brouwer-Janse1997]: Brouwer-Janse, Maddy D., Jane Fulton Suri, Mitchell Yawitz, Govert de Vries, James L. Fozard, and Roger Coleman. 1997. “User Interfaces for Young and Old.” Interactions 4(2): 34–46. https://doi.org/10.1145/245129.245133.
 [^Moll-Carrillo1995]: Moll-Carrillo, HectorJ., Gitta Salomon, Matthew Marsh,Jane Fulton Suri, and Peter Spreenberg. 1995. “Articulating a Metaphor Through User-Centered Design.” In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. NewYork: ACM Press/Addison-Wesley Publishing Co.
-[Spreenberg1995]: Spreenberg, Peter, Gitta Salomon, and Phillip Joe. 1995. “Interaction design at IDEO Product Development.” In Conference Companion on Human Factors in Computing Systems, 164–5. New York: Association for Computing Machinery.
+[^Spreenberg1995]: Spreenberg, Peter, Gitta Salomon, and Phillip Joe. 1995. “Interaction design at IDEO Product Development.” In Conference Companion on Human Factors in Computing Systems, 164–5. New York: Association for Computing Machinery.
 [^Black1994]: Black, Alison, Oliver Bayley, Colin Burns, Ilkka Kuuluvainen, and John Stoddard. 1994. “Keeping Viewers in the Picture: Real- World Usability Procedures in the Development of a Television Control Interface.” In Conference Companion on Human Factors in Computing Systems, 243–4. New York: Association for Computing Machinery
 [^Moggridge1993]: Moggridge, Bill. 1993. “Design by Story-Telling.” Applied Ergonomics 24(1): 15–8. https://doi.org/10.1016/0003-6870(93)90154-2.
 [^Simsarian2003]: Simsarian, Kristian T. 2003. “Take It to the Next Stage: The Roles of Role Playing in the Design Process.” In Human Factors  in Computing Systems, 1012–3. New York: Association for Computing Machinery.
