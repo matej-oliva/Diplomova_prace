@@ -26,11 +26,7 @@ Design thinking je často kritizován za nedostatečné ukotvení praktik a neja
 ## Výsledky
 Analýza odhalila 8 témat reprezentujících kvality filozofie designu konzistentní praxe napříč dekádami.
 
-<figure>
-    <img src=".attachments/a9a71bcd827476e4a46c4ecdd62b2f0cabca26a9.png"
-         alt="Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of selected core courses">
-    <figcaption>Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of selected core courses</figcaption>
-</figure>
+![Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of selected core courses](.attachments/a9a71bcd827476e4a46c4ecdd62b2f0cabca26a9.png "Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of selected core courses")*Visualization of Time-Order Matrix of selected courses, literature, and events. The overview incorporates a small number of selected core courses*
 
 První perioda ukazuje na rané teoretické základy, primárně psychologie, výzkumu kreativity a praktik designu. Druhá až čtvrtá se věnují vývoji těchto praktik a metod od roku 1957 do 2005. Poslední perioda zahrnuje aktuální debatu na téma DT v literatuře innovation managementu (Micheli et al., 2019).
 
@@ -186,11 +182,7 @@ Teorie a praxe designového myšlení. Ve stejné době začalo i IDEO nazývat 
 
 V roce 1999 byl natočen i dokumentární film The Deep Dive, který poukázal, jak mezioborový tým předesignoval nákupní košík. Dokument tento přístup velmi zpopularizoval mezi vedoucími pracovníky organizací a půl století vyvíjený program, smýšlení a filozofie byly shrnuty do jediného pojmu: Design thinking.[^article]
 
-<figure>
-    <img src=".attachments/a6b9c1cc549d7c5b954556d5a94cb920eca5023c.png"
-         alt="Design qualities to enable Design-driven Innovation"/>
-    <figcaption>Design qualities to enable Design-driven Innovation</figcaption>
-</figure>
+![Design qualities to enable Design-driven Innovation](.attachments/a6b9c1cc549d7c5b954556d5a94cb920eca5023c.png "Design qualities to enable Design-driven Innovation")*Design qualities to enable Design-driven Innovation*
 
 ## Závěr
 Akademici uváděli, že se Designové myšlení vynořilo nezávisle na teoriích. Tato studie však nalezla, že jsou do této metodiky hluboce zakořeněny psychologické teorie kreativity, vizuálního myšlení a lidských hodnot. 
