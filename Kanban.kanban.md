@@ -3,7 +3,7 @@
   Ověřit u pracovníků wireframy, než budou předělávány na podrobnější designy.
 
 ## To-do
-- User stories #Dokumenty 2024-01-21  
+- User stories #Dokumenty 2024-02-04  
   Sepsat user stories, které obsáhnou celkový průběh uživatele aplikací.
 - Wireframy #Designy  
   Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
