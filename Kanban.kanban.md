@@ -1,12 +1,12 @@
 ## Backlog
+- Wireframy #Designy  
+  Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
 - Ověření wireframů #Schůzky  
   Ověřit u pracovníků wireframy, než budou předělávány na podrobnější designy.
 
 ## To-do
 - User stories #Dokumenty 2024-02-04  
   Sepsat user stories, které obsáhnou celkový průběh uživatele aplikací.
-- Wireframy #Designy  
-  Načrtnout wireframy, které popíšou všechny funkční požadavky aplikace.
 
 ## In progress
 - A new methodology for the retrieval and evaluation of geographic coordinates within databases of scientific plant collections #Knihy  
