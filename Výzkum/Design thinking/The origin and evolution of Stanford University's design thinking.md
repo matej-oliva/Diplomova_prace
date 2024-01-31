@@ -192,7 +192,7 @@ Koncepce designu poskytuje humanistickou a kreativní perspektivu vývoje techno
 
 Dále práce ukazuje, že Design thinking je mnohostranný soubor vzájemně propojených způsobů myšlení, postojů a hodnot, vlastností a schopností, které se lze naučit a podporovat prostřednictvím různých aktivit a postupů, technik a příznivého prostředí, který slouží k překonání vznikajících překážek.[^article]
 
----
+## Zdroje použité z článku
 [^Adams1974b]: Adams, James L. 1974b. “Invention and Innovation in the University.” The Public Need and the Role of the Inventor 37–46.
 [^Brown2008]: Brown, Tim. 2008. “Design Thinking.” Harvard Business Review 86(6): 84–92.
 [^Brown2009]: Brown, Tim. 2009. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. New York: HarperCollins.
