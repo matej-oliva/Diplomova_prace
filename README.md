@@ -6,6 +6,9 @@
 **Vedoucí DP: Ing. et Ing. Michal Doležel, Ph.D.**
 **Letní semestr 2023/2024**
 
+## Abstrakt
+Cílem této práce je narvrhnout a ověřit prototyp aplikace v nástroji Figma, který bude odpovídat funkčním požadavkům pracovníků laboratoře molekulárni biologie rostli PřF JU. Návrh prototypu bude utvářen pomocí user-centered metodiky Design Thinking. V první kapitole se bude práce zabývat historií metodiky, její transformací z inovačního managementu do dnešní podoby, jejími zásadami a praktikami. V druhé kapitole se práce zaměří na praktiky návrhů UX a UI a jejich testování. Následné kapitoly rozeberou témata související s koncovým produktem jako praktiky zaznamenávání souřadnic nálezů rostlin v přírodě, archivace rostlin do herbářů a jiné elektronické databázové systémy rostlin. Metodika práce bude pojednávat o jednotlivých fázích projektu, rozhovorech s vědeckými pracovníky, jakým způsobem se prototyp aplikace vyvíjel a bude popisovat průchod jednotlivými aktivitami design thinkingu a testování uživatelů. Výsledkem práce bude celkové zhodnocení designu prototypu, výsledky testování uživatelů a zhodnocení metodiky design thinking.
+
 ## Úvod
 
 Nedílnou součástí botanického výzkumu je mj. floristika – mapování jednotlivých druhů rostlin v přírodě a sledování změn jejich rozšíření. Zásadní fází je pak určování rostlin, které se často neobejde bez následné analýzy optickým mikroskopem. Právě takovéto analýzy zaměřené na reprodukční vlastnosti rostlin mohou významně přispět k odhalení genetického kontextu zkoumaných rostlin. Díky této kombinaci lze porozumět nejen šíření rostlin, ale i jeho evolučním příčinám.
