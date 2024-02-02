@@ -56,6 +56,8 @@ V rámci výzkumu metodiky Design thinking se autor zaměřil hlavně na článk
 
 Pracovníci laboratoře potřebují v zefektivnit sběr dat a vzorků v terénu (zadávání lokace nálezu a potřebných údajů do aplikace v mobilu), jejich laboratorní analýzu (rozpoznávání a počítání mikroskopických buněk pomocí Machine Learningu) a následnou administrativu s těmito procesy spojenou (zadávání dat o nálezcích, projektech, výzkumech a taxonomie rostlin) do jednotné aplikace – herbáře.
 
+Cílem práce je navrhnout prototyp elektronického herbáře pro 
+
 Hlavním cílem práce je tedy navrhnout a ověřit prototyp takové aplikace.
 
 Jednotlivé cíle jsou rozděleny následovně:
